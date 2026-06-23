@@ -9,156 +9,55 @@
 </head>
 <body>
   <header class="site-header">
-    <div class="wrap nav-wrap">
-      <a class="brand" href="#home" aria-label="Yongjae Kim home">Yongjae Kim</a>
+    <div class="container header-inner">
+      <a class="site-title" href="index.html">Yongjae Kim</a>
       <nav class="nav" aria-label="Main navigation">
-        <a href="#research">Research</a>
-        <a href="#publications">Publications</a>
-        <a href="#talks">Talks</a>
-        <a href="#teaching">Teaching</a>
-        <a href="#awards">Awards</a>
+        <a class="active" href="index.html">Home</a>
+        <a href="research.html">Research</a>
+        <a href="teaching.html">Teaching</a>
+        <a href="talks.html">Talks</a>
         <a href="cv.pdf">CV</a>
       </nav>
     </div>
   </header>
 
-  <main>
-    <section id="home" class="hero wrap">
-      <div class="hero-text">
-        <p class="eyebrow">Statistics · Seoul National University</p>
-        <h1>Yongjae Kim</h1>
-        <p class="lead">
-          I am a Postdoctoral Researcher at the Institute for Data Innovation in Science,
-          Seoul National University. I received my Ph.D. in Statistics from Seoul National
-          University, advised by Prof. Sungkyu Jung.
-        </p>
-        <p>
-          My research interests include nonparametric statistics, dependence and association
-          measures, mixed-type data analysis, conditional independence, and statistical
-          disclosure risk for synthetic data.
-        </p>
-        <div class="links">
-          <a href="cv.pdf">CV</a>
-          <a href="mailto:cherrycooky@snu.ac.kr">Email</a>
-          <a href="https://scholar.google.com/" target="_blank" rel="noopener">Google Scholar</a>
-          <a href="https://orcid.org/" target="_blank" rel="noopener">ORCID</a>
-          <a href="https://github.com/" target="_blank" rel="noopener">GitHub</a>
-        </div>
-      </div>
-      <aside class="profile-card" aria-label="Profile summary">
-        <div class="portrait" aria-hidden="true">YK</div>
-        <h2>Contact</h2>
-        <p>Institute for Data Innovation in Science<br />Seoul National University</p>
-        <p>1 Gwanak-ro, Gwanak-gu<br />Seoul 08826, Korea</p>
-        <p><a href="mailto:cherrycooky@snu.ac.kr">cherrycooky@snu.ac.kr</a></p>
-      </aside>
-    </section>
+  <main class="container page home-layout">
+    <aside class="photo-block" aria-label="Profile photo placeholder">
+      <div class="photo-placeholder">YK</div>
+    </aside>
 
-    <section id="research" class="section wrap">
-      <h2>Research</h2>
+    <section class="home-text">
+      <h1>Hi, I&rsquo;m Yongjae.</h1>
+
       <p>
-        I work on statistical methods for measuring dependence structures in complex data,
-        especially when variables have mixed types or when conditional relationships are involved.
-        A second line of my work concerns statistical disclosure risk and privacy assessment for
-        synthetic data.
+        I am in Statistics at Seoul National University, working with Prof. Sungkyu Jung.
+        My research interests include nonparametric statistics, dependence and association
+        measures, mixed-type data analysis, conditional independence, and statistical
+        disclosure risk for synthetic data.
       </p>
-      <div class="grid two">
-        <article class="card">
-          <h3>Dependence measures for mixed-type data</h3>
-          <p>
-            Nonparametric association measures, categorical responses, nearest-neighbor methods,
-            conditional dependence, and interpretable measures of signal strength.
-          </p>
-        </article>
-        <article class="card">
-          <h3>Synthetic data privacy</h3>
-          <p>
-            Attribution disclosure risk, utility-risk tradeoffs, and general frameworks for privacy
-            risk assessment in synthetic data releases.
-          </p>
-        </article>
-      </div>
-    </section>
 
-    <section id="publications" class="section wrap">
-      <h2>Publications</h2>
-      <article class="item">
-        <p class="authors">S. An, T. Doan, J. Lee, J. Kim, Y. J. Kim, <strong>Y. Kim</strong>, C. Yoon, S. Jung, D. Kim, S. Kwon, H. J. Kim, J. Ahn, and C. Park</p>
-        <h3>A comparison of synthetic data approaches using utility and disclosure risk measures</h3>
-        <p>The Korean Journal of Applied Statistics, 36(2), 141–166, 2023.</p>
-      </article>
+      <p>
+        Here is my <a href="cv.pdf">CV</a>.
+      </p>
 
-      <h2 class="subhead">Manuscripts</h2>
-      <article class="item">
-        <p class="authors"><strong>Y. Kim</strong>, H. Moon, and S. Jung</p>
-        <h3>An association measure for mixed-types variables</h3>
-        <p>Manuscript.</p>
-      </article>
-      <article class="item">
-        <p class="authors"><strong>Y. Kim</strong>, J. Kim, and S. Jung</p>
-        <h3>General measures of Attribution Disclosure Risk for gauging privacy of synthetic data</h3>
-        <p>In preparation.</p>
-      </article>
-    </section>
+      <p>
+        Email: cherrycooky {at} snu.ac.kr
+      </p>
 
-    <section id="talks" class="section wrap">
-      <h2>Talks and Presentations</h2>
-      <article class="item">
-        <h3>An Association Measure for Mixed-type Variables</h3>
-        <ul>
-          <li>4th Joint Conference on Statistics and Data Science, Guiyang, China, 2026.</li>
-          <li>Seventh IMS Asia Pacific Rim Meeting, Hong Kong, June 2026.</li>
-          <li>The 26th Nonparametric Statistical Analysis and Bayesian Statistics, Meiji University, Tokyo, March 2026.</li>
-        </ul>
-      </article>
-      <article class="item">
-        <h3>Nonparametric Association Measures for Mixed-Type Data with Multivariate and Conditional Extensions</h3>
-        <ul>
-          <li>Department of Statistics, Seoul National University, Seoul, November 2025.</li>
-        </ul>
-      </article>
-      <article class="item">
-        <h3>General measures of attribution disclosure risk for gauging privacy of synthetic data</h3>
-        <ul>
-          <li>International Symposium on Theories, Methodologies and Applications for Large Complex Data, Tsukuba, Japan, December 2024.</li>
-          <li>Korean Statistical Society Winter Conference, Daejeon, South Korea, November 2024.</li>
-        </ul>
-      </article>
-    </section>
+      <p class="address">
+        Department of Statistics<br />
+        Seoul National University<br />
+        Seoul, South Korea
+      </p>
 
-    <section id="teaching" class="section wrap">
-      <h2>Teaching</h2>
-      <article class="item">
-        <h3>Seoul National University</h3>
-        <ul>
-          <li>326.316 Multivariate Data Analysis and Lab, Fall 2023.</li>
-          <li>033.020 Statistical Laboratory, Spring 2021, Fall 2021, Spring 2022, Fall 2022, Spring 2023.</li>
-          <li>033.019 Introduction to Statistics, Fall 2020.</li>
-        </ul>
-      </article>
-    </section>
-
-    <section id="awards" class="section wrap">
-      <h2>Honors and Awards</h2>
-      <article class="item">
-        <h3>Sejong Science Fellowship</h3>
-        <p>National Research Foundation of Korea, Sole PI, 2026–2031.</p>
-      </article>
-      <article class="item">
-        <h3>Academic Excellence Scholarship</h3>
-        <p>Dongguk University, Spring 2018.</p>
-      </article>
+      <p class="links-line">
+        <a href="https://scholar.google.com/" target="_blank" rel="noopener">Google Scholar</a>
+        <span>/</span>
+        <a href="https://orcid.org/" target="_blank" rel="noopener">ORCID</a>
+        <span>/</span>
+        <a href="https://github.com/" target="_blank" rel="noopener">GitHub</a>
+      </p>
     </section>
   </main>
-
-  <footer class="footer">
-    <div class="wrap">
-      <p>© <span id="year"></span> Yongjae Kim. Last updated: June 2026.</p>
-    </div>
-  </footer>
-
-  <script>
-    document.getElementById('year').textContent = new Date().getFullYear();
-  </script>
 </body>
 </html>
