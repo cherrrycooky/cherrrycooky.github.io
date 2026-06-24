@@ -19,7 +19,7 @@ Please find a list of selected talks and poster presentations.
 </div>
 
 <div class="talk-item">
-<span class="tag talk">Talk</span>
+<span class="tag talk">Talk</span> <span class="tag poster">Poster</span>
 <strong>A Nearest-Neighbor Measure of Conditional Association for Mixed-Type Variables.</strong><br>
 IMS New Researchers Conference Asia 2026, The University of Hong Kong, Hong Kong, June 17--18, 2026.
 </div>
