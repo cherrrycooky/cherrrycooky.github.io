@@ -9,14 +9,14 @@ title: Home
     <p class="lead">
       I am a Postdoctoral Researcher at the Institute for Data Innovation in Science, Seoul National University. I received my Ph.D. in Statistics from Seoul National University in 2026, advised by Prof. Sungkyu Jung.
     </p>
-    <p>
+<p>
 My research focuses on statistical inference, especially nonparametric methods for measuring dependence, association, and conditional association in mixed-type and high-dimensional data. I am interested in characterizing complex relationships without relying on restrictive parametric models, with connections to distribution-free inference, feature screening, variable selection, and modern biomedical data analysis.
 </p>
 
 <p>
 Another line of my research concerns privacy and disclosure risk in synthetic data. I develop general frameworks for assessing attribution disclosure risk, aiming to quantify how much sensitive information may be revealed by synthetic data while accounting for both data utility and privacy protection.
+</p>
 
-    </p>
     <p class="contact-line">
       cherrycooky [at] snu.ac.kr<br>
       Institute for Data Innovation in Science<br>
