@@ -42,7 +42,7 @@ Another line of my research concerns privacy and disclosure risk in synthetic da
     <li><span class="news-date">June 2026.</span> I presented <em>A Nearest-Neighbor Measure of Conditional Association for Mixed-Type Variables</em> at IMS New Researchers Conference Asia 2026.</li>
     <li><span class="news-date">June 2026.</span> I presented <em>An association measure for mixed-type variables</em> at IMS APRM 2026.</li>
     <li><span class="news-date">June 2026.</span> <em>A unified framework for measuring attribute disclosure risks in synthetic data</em> was submitted.</li>
-    <li><span class="news-date">June 2026.</span> <em>An association measure for mixed-type variables</em> was submitted.</li>
+    <li><span class="news-date">Feb 2026.</span> <em>An association measure for mixed-type variables</em> was submitted.</li>
     <li><span class="news-date">Feb 2026.</span> I was selected for the Sejong Science Fellowship as sole PI.</li>
   </ul>
 </section>
