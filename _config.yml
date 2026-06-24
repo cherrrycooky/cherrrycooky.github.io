@@ -1,0 +1,11 @@
+title: "Yongjae Kim"
+email: "cherrycooky@snu.ac.kr"
+description: >-
+  Postdoctoral Researcher at the Institute for Data Innovation in Science,
+  Seoul National University.
+url: "https://cherrrycooky.github.io"
+baseurl: ""
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty

@@ -1,0 +1,120 @@
+:root {
+  --text: #111;
+  --muted: #666;
+  --line: #ddd;
+  --link: #0645ad;
+  --bg: #fff;
+}
+
+html {
+  background: var(--bg);
+}
+
+body {
+  color: var(--text);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 17px;
+  line-height: 1.58;
+  margin: 0;
+}
+
+.page {
+  max-width: 720px;
+  margin: 48px auto 72px;
+  padding: 0 22px;
+}
+
+h1, h2, h3 {
+  line-height: 1.25;
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 1.9rem;
+  margin: 0 0 1.2rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+  margin-top: 2rem;
+}
+
+h3 {
+  font-size: 1.05rem;
+  margin-top: 1.4rem;
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--line);
+  margin: 1.2rem 0;
+}
+
+ul {
+  padding-left: 1.25rem;
+}
+
+li {
+  margin: 0.35rem 0;
+}
+
+.topnav {
+  margin-bottom: 1rem;
+}
+
+.topnav a {
+  margin-right: 1.2rem;
+}
+
+.profile {
+  display: flex;
+  gap: 1.6rem;
+  align-items: flex-start;
+}
+
+.profile img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 2px;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.news-date {
+  font-weight: 600;
+}
+
+.paper-title {
+  font-weight: 600;
+}
+
+@media (max-width: 620px) {
+  body {
+    font-size: 16px;
+  }
+  .page {
+    margin-top: 32px;
+  }
+  .profile {
+    display: block;
+  }
+  .profile img {
+    margin-bottom: 1rem;
+  }
+  .topnav a {
+    display: inline-block;
+    margin-right: 0.9rem;
+  }
+}

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<nav class="topnav">
+  <a href="{{ '/' | relative_url }}">home</a>
+  <a href="{{ '/papers/' | relative_url }}">papers</a>
+  <a href="{{ '/talks/' | relative_url }}">talks</a>
+  <a href="{{ '/teaching/' | relative_url }}">teaching</a>
+</nav>
+
+<hr>
+
+# {{ page.title }}
+
+{{ content }}
+
+<hr>
+
+<a href="{{ '/' | relative_url }}">Return to the home page</a>.
