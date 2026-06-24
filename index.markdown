@@ -32,7 +32,7 @@ title: Home
   </div>
   <aside class="portrait-frame" aria-label="Profile photo placeholder">
     <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Yongjae Kim" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
-    <div class="portrait-placeholder">YK</div>
+    <div class="portrait-placeholder">Yongjae Kim</div>
   </aside>
 </section>
 
