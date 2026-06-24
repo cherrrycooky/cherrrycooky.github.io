@@ -25,7 +25,7 @@ Another line of my research concerns privacy and disclosure risk in synthetic da
     <p class="links-line">
       <a href="https://orcid.org/0009-0006-5982-3118">ORCID</a>
       <span class="dot">·</span>
-      <a href="https://github.com/cherrrycooky/yongjaekim">GitHub</a>
+      <a href="https://github.com/cherrrycooky/">GitHub</a>
       <span class="dot">·</span>
       <a href="{{ '/cv.pdf' | relative_url }}">CV</a>
     </p>
@@ -43,6 +43,6 @@ Another line of my research concerns privacy and disclosure risk in synthetic da
     <li><span class="news-date">June 2026.</span> I presented <em>An association measure for mixed-type variables</em> at IMS APRM 2026.</li>
     <li><span class="news-date">June 2026.</span> <em>A unified framework for measuring attribute disclosure risks in synthetic data</em> was submitted.</li>
     <li><span class="news-date">June 2026.</span> <em>An association measure for mixed-type variables</em> was submitted.</li>
-    <li><span class="news-date">2026.</span> I was selected for the Sejong Science Fellowship as sole PI.</li>
+    <li><span class="news-date">Feb 2026.</span> I was selected for the Sejong Science Fellowship as sole PI.</li>
   </ul>
 </section>
