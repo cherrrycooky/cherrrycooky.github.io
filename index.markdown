@@ -13,7 +13,7 @@ Email: cherrycooky {at} snu.ac.kr
 Institute for Data Innovation in Science, Seoul National University  
 Seoul, South Korea
 
-[ORCID](https://orcid.org/0009-0006-5982-3118) / [GitHub](https://github.com/cherrrycooky/yongjaekim)
+[ORCID](https://orcid.org/0009-0006-5982-3118) / [GitHub](https://github.com/cherrrycooky)
 
 ## What's new
 
