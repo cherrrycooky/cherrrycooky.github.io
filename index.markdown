@@ -39,6 +39,7 @@ Another line of my research concerns privacy and disclosure risk in synthetic da
 <section class="news-section">
   <h2>News</h2>
   <ul class="news-list">
+    <li><span class="news-date">July 2026 (Upcoming).</span> I presented <em>An Association Measure for Mixed-Type Variables</em> at 4th Joint Conference on Statistics and Data Science, Guiyang, China.</li>
     <li><span class="news-date">June 2026.</span> I presented <em>A Nearest-Neighbor Measure of Conditional Association for Mixed-Type Variables</em> at IMS New Researchers Conference Asia 2026, Hong Kong.</li>
     <li><span class="news-date">June 2026.</span> I presented <em>An association measure for mixed-type variables</em> at IMS APRM 2026, Hong Kong.</li>
     <li><span class="news-date">June 2026.</span> <em>A unified framework for measuring attribute disclosure risks in synthetic data</em> was submitted.</li>
