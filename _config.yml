@@ -9,3 +9,13 @@ markdown: kramdown
 kramdown:
   input: GFM
 permalink: pretty
+
+# Safety: if old HTML-only files remain in the repository, do not publish them.
+exclude:
+  - index.html
+  - research.html
+  - styles.css
+  - talks.html
+  - teaching.html
+  - cv.pdf
+  - .nojekyll

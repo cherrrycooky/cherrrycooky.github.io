@@ -1,15 +1,25 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{{ site.description | strip_html | normalize_whitespace }}">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-</head>
-<body>
-  <main class="page">
-    {{ content }}
-  </main>
-</body>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ site.description | strip_html | normalize_whitespace }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <main class="page">
+      <nav class="nav" aria-label="Main navigation">
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <span class="nav-links">
+          <a href="{{ '/' | relative_url }}">home</a>
+          <a href="{{ '/papers/' | relative_url }}">papers</a>
+          <a href="{{ '/talks/' | relative_url }}">talks</a>
+          <a href="{{ '/teaching/' | relative_url }}">teaching</a>
+        </span>
+      </nav>
+      <hr>
+      {{ content }}
+    </main>
+  </body>
 </html>

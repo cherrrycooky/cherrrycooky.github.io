@@ -1,19 +1,19 @@
 # Yongjae Kim personal website
 
-This is a minimal GitHub Pages / Jekyll personal academic website inspired by yang1030.github.io.
+Minimal GitHub Pages / Jekyll academic website.
 
 ## Edit content
 
 - Home: `index.markdown`
 - Papers: `papers.markdown`
-- Talks: `talks.markdown`
+- Talks and posters: `talks.markdown`
 - Teaching: `teaching.markdown`
 - Global settings: `_config.yml`
 - Design: `assets/css/style.css`
 
-## Important migration note
+## Migration note
 
-When switching from the previous HTML-only version, delete these old files from the repository root if they exist:
+Delete old HTML-only files from the repository root:
 
 - `.nojekyll`
 - `index.html`
