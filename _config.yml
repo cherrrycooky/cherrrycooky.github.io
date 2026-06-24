@@ -1,21 +1,10 @@
 title: "Yongjae Kim"
 email: "cherrycooky@snu.ac.kr"
 description: >-
-  Postdoctoral Researcher at the Institute for Data Innovation in Science,
-  Seoul National University.
+  Postdoctoral Researcher at the Institute for Data Innovation in Science, Seoul National University.
 url: "https://cherrrycooky.github.io"
 baseurl: ""
 markdown: kramdown
 kramdown:
   input: GFM
 permalink: pretty
-
-# Safety: if old HTML-only files remain in the repository, do not publish them.
-exclude:
-  - index.html
-  - research.html
-  - styles.css
-  - talks.html
-  - teaching.html
-  - cv.pdf
-  - .nojekyll

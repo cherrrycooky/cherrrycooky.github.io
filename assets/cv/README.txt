@@ -1,2 +1,1 @@
-Put a public CV PDF here after removing phone number and detailed personal address.
-Recommended filename: cv.pdf
+Optional backup CV location. The website navigation currently links to /cv.pdf at the repository root.
