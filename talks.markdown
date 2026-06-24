@@ -13,7 +13,7 @@ Please find a list of selected talks and poster presentations.
 </div>
 
 <div class="talk-item">
-<span class="tag talk">Talk</span><span class="tag poster">Poster</span>
+<span class="tag talk">Talk</span>
 <strong>An Association Measure for Mixed-Type Variables.</strong><br>
 7th IMS Asia Pacific Rim Meeting, Hong Kong, June 2026.
 </div>
