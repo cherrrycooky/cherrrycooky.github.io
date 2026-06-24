@@ -15,12 +15,12 @@ Selected talks and poster presentations.
   </li>
   <li>
     <span class="tag tag-talk">Talk</span>
-    <span class="tag tag-poster">Poster</span>
     <span class="talk-title">An Association Measure for Mixed-Type Variables.</span><br>
     <span class="venue">7th IMS Asia Pacific Rim Meeting, Hong Kong, June 2026.</span>
   </li>
   <li>
     <span class="tag tag-talk">Talk</span>
+    <span class="tag tag-poster">Poster</span>
     <span class="talk-title">A Nearest-Neighbor Measure of Conditional Association for Mixed-Type Variables.</span><br>
     <span class="venue">IMS New Researchers Conference Asia 2026, The University of Hong Kong, Hong Kong, June 17--18, 2026.</span>
   </li>
