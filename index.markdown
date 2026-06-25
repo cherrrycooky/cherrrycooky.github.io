@@ -7,7 +7,7 @@ title: Home
   <div class="home-main">
     <h1>Yongjae Kim</h1>
     <p class="lead">
-      I am a Postdoctoral Researcher at the Institute for Data Innovation in Science, Seoul National University. I received my Ph.D. in Statistics from Seoul National University in 2026, advised by Prof. Sungkyu Jung.
+      I am a Postdoctoral Researcher at the Institute for Data Innovation in Science, Seoul National University. I received my Ph.D. in Statistics from Seoul National University in 2026, advised by Prof. <a href="https://jung.snu.ac.kr/">Sungkyu Jung</a>.
     </p>
     <p>
     My research focuses on statistical inference, especially nonparametric methods for measuring dependence, association, and conditional association in mixed-type and high-dimensional data. I am interested in characterizing complex relationships without relying on restrictive parametric models, with connections to distribution-free inference, feature screening, variable selection, and modern biomedical data analysis.
