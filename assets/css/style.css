@@ -200,6 +200,30 @@ em {
   font-weight: 650;
 }
 
+.news-highlight {
+  background: #f7f4ed;
+  border-left: 4px solid #9a7b35;
+  padding: 0.75rem 1rem;
+  border-radius: 6px;
+  margin-top: 0.5rem;
+}
+
+.news-badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: #6f5520;
+  background: #efe3c4;
+  border-radius: 999px;
+  padding: 0.15rem 0.5rem;
+  margin-right: 0.35rem;
+}
+
+.news-highlight strong {
+  color: #6f5520;
+}
+
 .item-list li {
   padding: 0.82rem 0;
   border-bottom: 1px solid var(--line);
