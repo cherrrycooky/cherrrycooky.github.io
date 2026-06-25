@@ -45,6 +45,6 @@ title: Home
     <li><span class="news-date">June 2026.</span> <em>A unified framework for measuring attribute disclosure risks in synthetic data</em> was submitted.</li>
     <li><span class="news-date">Mar 2026.</span> I presented <em>An association measure for mixed-type variables</em> at The 26th Nonparametric Statistical Analysis and Bayesian Statistics, Meiji University, Tokyo, Japan.</li>
     <li><span class="news-date">Feb 2026.</span> <em>An association measure for mixed-type variables</em> was submitted.</li>
-    <li class="news-highlight"> <span class="news-date">Feb 2026.</span> I was selected for the <strong>Sejong Science Fellowship</strong> as the sole PI. <span class="news-badge">Fellowship</span> </li>
+    <li class="news-highlight"> <span class="news-date">Feb 2026.</span> <span class="tag tag-fellowship">Fellowship</span> I was selected for the <strong>Sejong Science Fellowship</strong> as the PI. </li>
   </ul>
 </section>
