@@ -208,19 +208,6 @@ font-weight: 400;
 font-weight: 600;
 }
 
-.news-badge {
-display: inline-block;
-margin-left: 0.4rem;
-padding: 0.08rem 0.45rem;
-font-size: 0.72rem;
-font-weight: 600;
-color: #6f1d2a;
-background: #f8e9eb;
-border: 1px solid #ddb5bb;
-border-radius: 999px;
-vertical-align: middle;
-}
-
 .item-list li {
   padding: 0.82rem 0;
   border-bottom: 1px solid var(--line);
@@ -270,6 +257,12 @@ vertical-align: middle;
 .tag-upcoming {
   background: var(--tag-upcoming-bg);
   color: var(--tag-upcoming-text);
+}
+
+.tag-fellowship {
+background: #f8e9eb;
+color: #6f1d2a;
+border: 1px solid #ddb5bb;
 }
 
 .content-page {
