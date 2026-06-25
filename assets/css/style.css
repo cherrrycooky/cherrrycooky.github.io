@@ -17,6 +17,8 @@
   --tag-submitted-text: #563d7c;
   --tag-upcoming-bg: #ffe5e5;
   --tag-upcoming-text: #8a2f2f;
+  --tag-paper-bg: #eef2f7;
+  --tag-paper-text: #3f5873;
 }
 
 * {
@@ -263,6 +265,12 @@ font-weight: 600;
 background: #f8e9eb;
 color: #6f1d2a;
 border: 1px solid #ddb5bb;
+}
+
+.tag-paper {
+background: var(--tag-paper-bg);
+color: var(--tag-paper-text);
+border: 1px solid #d5dde8;
 }
 
 .content-page {
