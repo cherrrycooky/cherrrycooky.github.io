@@ -39,12 +39,13 @@ title: Home
 <section class="news-section">
   <h2>News</h2>
   <ul class="news-list">
-    <li><span class="news-date">July 2026 (Upcoming).</span> I presented <em>An Association Measure for Mixed-Type Variables</em> at 4th Joint Conference on Statistics and Data Science, Guiyang, China.</li>
+    <li><span class="news-date">July 2026 (Upcoming).</span> I will present <em>An Association Measure for Mixed-Type Variables</em> at 4th Joint Conference on Statistics and Data Science, Guiyang, China.</li>
     <li><span class="news-date">June 2026.</span> I presented <em>A Nearest-Neighbor Measure of Conditional Association for Mixed-Type Variables</em> at IMS New Researchers Conference Asia 2026, Hong Kong.</li>
     <li><span class="news-date">June 2026.</span> I presented <em>An association measure for mixed-type variables</em> at IMS APRM 2026, Hong Kong.</li>
     <li><span class="news-date">June 2026.</span> <em>A unified framework for measuring attribute disclosure risks in synthetic data</em> was submitted.</li>
     <li><span class="news-date">Mar 2026.</span> I presented <em>An association measure for mixed-type variables</em> at The 26th Nonparametric Statistical Analysis and Bayesian Statistics, Meiji University, Tokyo, Japan.</li>
     <li><span class="news-date">Feb 2026.</span> <em>An association measure for mixed-type variables</em> was submitted.</li>
-    <li><span class="news-date">Feb 2026.</span> I was selected for the Sejong Science Fellowship as sole PI.</li>
+    <li class="news-highlight"><span class="news-date">Feb 2026.</span><span class="news-badge">Fellowship</span>  I was selected for the <strong>Sejong Science Fellowship</strong> as the sole Principal Investigator.
+</li>
   </ul>
 </section>
