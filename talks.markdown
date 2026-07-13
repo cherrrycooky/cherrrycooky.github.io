@@ -9,9 +9,8 @@ Selected talks and poster presentations.
 <ul class="item-list talks-list">
   <li>
     <span class="tag tag-talk">Talk</span>
-    <span class="tag tag-upcoming">Upcoming</span>
     <span class="talk-title">An Association Measure for Mixed-Type Variables.</span><br>
-    <span class="venue">4th Joint Conference on Statistics and Data Science, Guiyang, China, July 2026.</span>
+    <span class="venue">4th Joint Conference on Statistics and Data Science, Guiyang, China, July 13 2026.</span>
   </li>
   <li>
     <span class="tag tag-talk">Talk</span>
