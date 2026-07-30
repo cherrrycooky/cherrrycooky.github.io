@@ -24,7 +24,7 @@ permalink: /papers/
   </li>
   <li>
     <span class="tag tag-submitted">Submitted</span>
-    <span class="paper-title">An association measure for mixed-type variables.</span><br>
+    <span class="paper-title">An association measure for mixed-type variables.</span> <a href="https://arxiv.org/abs/2607.26508">[arXiv]</a><br>
     Y. Kim, H. Moon, and S. Jung.
   </li>
 </ul>
