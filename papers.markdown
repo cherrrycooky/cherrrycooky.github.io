@@ -19,12 +19,12 @@ permalink: /papers/
 <ul class="item-list papers-list">
   <li>
     <span class="tag tag-submitted">Submitted</span>
-    <span class="paper-title">A unified framework for measuring attribute disclosure risks in synthetic data.</span><br>
+    <span class="paper-title">A unified framework for measuring attribute disclosure risks in synthetic data.</span> <a href="https://github.com/JiwooKim97/ADR">[code]</a><br>
     Y. Kim, J. Kim, and S. Jung.
   </li>
   <li>
     <span class="tag tag-submitted">Submitted</span>
-    <span class="paper-title">An association measure for mixed-type variables.</span> <a href="https://arxiv.org/abs/2607.26508">[arXiv]</a><br>
+    <span class="paper-title">An association measure for mixed-type variables.</span> <a href="https://arxiv.org/abs/2607.26508">[arXiv]</a> <a href="https://github.com/cherrrycooky/xiprime">[code]</a><br>
     Y. Kim, H. Moon, and S. Jung.
   </li>
 </ul>
