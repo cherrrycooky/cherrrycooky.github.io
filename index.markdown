@@ -46,6 +46,7 @@ title: Home
     <li><span class="news-date">June 2026.</span> <span class="tag tag-talk">Talk</span> I presented <em>An association measure for mixed-type variables</em> at the IMS APRM 2026, Hong Kong.</li>
     <li><span class="news-date">June 2026.</span> <span class="tag tag-paper">Paper</span> <em>A unified framework for measuring attribute disclosure risks in synthetic data</em> was submitted.</li>
     <li><span class="news-date">Mar 2026.</span> <span class="tag tag-talk">Talk</span> I presented <em>An association measure for mixed-type variables</em> at The 26th Nonparametric Statistical Analysis and Bayesian Statistics, Meiji University, Tokyo, Japan.</li>
+    <li><span class="news-date">Feb 2026.</span> I received my Ph.D. in Statistics from Seoul National University under the supervision of Professor <a href="https://jung.snu.ac.kr/">Sungkyu Jung</a>. My dissertation was titled <em>Extensions of Mixed-type Association Measures</em>.</li>
     <li><span class="news-date">Feb 2026.</span> <span class="tag tag-paper">Paper</span> <em>An association measure for mixed-type variables</em> was submitted.</li>
     <li class="news-highlight"> <span class="news-date">Feb 2026.</span> <span class="tag tag-fellowship">Fellowship</span> I was selected for the <strong>Sejong Science Fellowship</strong> as the PI. </li>
   </ul>
