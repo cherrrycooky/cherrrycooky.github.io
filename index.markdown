@@ -39,7 +39,7 @@ title: Home
 <section class="news-section">
   <h2>News</h2>
   <ul class="news-list">
-    <li><span class="news-date">Sept 2026.</span> <span class="tag tag-upcoming">Upcoming</span> Starting in March 2027, I will spend one year as a visiting scholar at the University of Washington, collaborating with Professor <a href="https://sites.stat.washington.edu/people/fanghan/">Fang Han</a>.</li>
+    <li><span class="news-date">Sept 2026.</span> <span class="tag tag-upcoming">Upcoming</span> Starting in March 2027, I will spend one year at the University of Washington, collaborating with Professor <a href="https://sites.stat.washington.edu/people/fanghan/">Fang Han</a>.</li>
     <li><span class="news-date">July 2026.</span> <span class="tag tag-paper">Paper</span> <em>An association measure for mixed-type variables</em> is now available on <a href="https://arxiv.org/abs/2607.26508">arXiv</a>.</li>
     <li><span class="news-date">July 2026.</span> <span class="tag tag-talk">Talk</span> I presented <em>An Association Measure for Mixed-Type Variables</em> at the 4th Joint Conference on Statistics and Data Science, Guiyang, China.</li>
     <li><span class="news-date">June 2026.</span> <span class="tag tag-talk">Talk</span> I presented <em>A Nearest-Neighbor Measure of Conditional Association for Mixed-Type Variables</em> at the IMS New Researchers Conference Asia 2026, Hong Kong.</li>
