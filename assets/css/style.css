@@ -273,6 +273,12 @@ color: var(--tag-paper-text);
 border: 1px solid #d5dde8;
 }
 
+.teaching-list .tag {
+  background: #fce7ef;
+  color: #8b3e5d;
+  border-color: #f4c5d7;
+}
+
 .content-page {
   max-width: 780px;
 }
