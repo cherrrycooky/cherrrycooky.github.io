@@ -21,5 +21,33 @@
       </header>
       {{ content }}
     </main>
+    <script>
+      window.goatcounter = {
+        path: function (path) { return path.split('?')[0]; }
+      };
+
+      (function () {
+        var events = {
+          "{{ '/cv.pdf' | relative_url }}": {
+            name: 'cv-pdf',
+            title: 'CV PDF'
+          },
+          'https://arxiv.org/abs/2607.26508': {
+            name: 'paper-arxiv-2607.26508',
+            title: 'Paper: An association measure for mixed-type variables'
+          }
+        };
+
+        document.querySelectorAll('a[href]').forEach(function (link) {
+          var event = events[link.getAttribute('href')];
+          if (!event) return;
+          link.setAttribute('data-goatcounter-click', event.name);
+          link.setAttribute('data-goatcounter-title', event.title);
+          link.setAttribute('data-goatcounter-no-session', '1');
+        });
+      }());
+    </script>
+    <script data-goatcounter="https://cherrrycooky.goatcounter.com/count"
+            async src="https://gc.zgo.at/count.js"></script>
   </body>
 </html>
