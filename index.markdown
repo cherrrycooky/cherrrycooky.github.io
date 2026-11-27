@@ -39,7 +39,7 @@ title: Home
 <section class="news-section">
   <h2>News</h2>
   <ul class="news-list">
-    <li><span class="news-date">Nov 2026.</span> <span class="tag tag-paper">Paper</span> <em>Evaluation of surrogate models in credit scoring: An empirical analysis of Korean card-loan data</em> was submitted to <em>The Korean Journal of Applied Statistics</em>.</li>
+    <li><span class="news-date">Nov 2026.</span> <span class="tag tag-paper">Paper</span> <em>Evaluation of surrogate models in credit scoring: An empirical analysis of Korean card-loan data</em> was submitted.</li>
     <li><span class="news-date">Oct 2026.</span> I attended the 4th IDIS IDEA Research Exchange Meeting at Seoul National University and briefly introduced myself to fellow researchers.</li>
     <li><span class="news-date">Sept 2026.</span> <span class="tag tag-upcoming">Upcoming</span> Starting in March 2027, I will spend one year at the University of Washington, collaborating with Professor <a href="https://sites.stat.washington.edu/people/fanghan/">Fang Han</a>.</li>
     <li><span class="news-date">July 2026.</span> <span class="tag tag-paper">Paper</span> <em>An association measure for mixed-type variables</em> is now available on <a href="https://arxiv.org/abs/2607.26508">arXiv</a>.</li>
