@@ -1,0 +1,59 @@
+# Add new entries at the top (newest first).
+- date: "Nov 2026."
+  tag: "Paper"
+  body: >-
+    <em>Evaluation of surrogate models in credit scoring: An empirical analysis of Korean card-loan data</em> was submitted.
+
+- date: "Oct 2026."
+  body: >-
+    I attended the 4th IDIS IDEA Research Exchange Meeting at Seoul National University and briefly introduced myself to fellow researchers.
+
+- date: "Sept 2026."
+  tag: "Upcoming"
+  body: >-
+    Starting in March 2027, I will spend one year at the University of Washington, collaborating with Professor <a href="https://sites.stat.washington.edu/people/fanghan/">Fang Han</a>.
+
+- date: "July 2026."
+  tag: "Paper"
+  body: >-
+    <em>An association measure for mixed-type variables</em> is now available on <a href="https://arxiv.org/abs/2607.26508">arXiv</a>.
+
+- date: "July 2026."
+  tag: "Talk"
+  body: >-
+    I presented <em>An Association Measure for Mixed-Type Variables</em> at the 4th Joint Conference on Statistics and Data Science, Guiyang, China.
+
+- date: "June 2026."
+  tag: "Talk"
+  body: >-
+    I presented <em>A Nearest-Neighbor Measure of Conditional Association for Mixed-Type Variables</em> at the IMS New Researchers Conference Asia 2026, Hong Kong.
+
+- date: "June 2026."
+  tag: "Talk"
+  body: >-
+    I presented <em>An association measure for mixed-type variables</em> at the IMS APRM 2026, Hong Kong.
+
+- date: "June 2026."
+  tag: "Paper"
+  body: >-
+    <em>A unified framework for measuring attribute disclosure risks in synthetic data</em> was submitted.
+
+- date: "Mar 2026."
+  tag: "Talk"
+  body: >-
+    I presented <em>An association measure for mixed-type variables</em> at The 26th Nonparametric Statistical Analysis and Bayesian Statistics, Meiji University, Tokyo, Japan.
+
+- date: "Feb 2026."
+  body: >-
+    I received my Ph.D. in Statistics from Seoul National University under the supervision of Professor <a href="https://jung.snu.ac.kr/">Sungkyu Jung</a>. My dissertation was titled <em>Extensions of Mixed-type Association Measures</em>.
+
+- date: "Feb 2026."
+  tag: "Paper"
+  body: >-
+    <em>An association measure for mixed-type variables</em> was submitted.
+
+- date: "Feb 2026."
+  tag: "Fellowship"
+  highlight: true
+  body: >-
+    I was selected for the <strong>Sejong Science Fellowship</strong> as the PI.
