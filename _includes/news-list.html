@@ -1,0 +1,10 @@
+{% assign news_count = include.limit | default: site.data.news.size %}
+<ul class="news-list">
+  {% for item in site.data.news limit:news_count %}
+  <li{% if item.highlight %} class="news-highlight"{% endif %}>
+    <span class="news-date">{{ item.date | escape }}</span>
+    {% if item.tag %}<span class="tag tag-{{ item.tag | downcase }}">{{ item.tag | escape }}</span>{% endif %}
+    {{ item.body }}
+  </li>
+  {% endfor %}
+</ul>
