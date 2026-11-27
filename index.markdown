@@ -38,18 +38,6 @@ title: Home
 
 <section class="news-section">
   <h2>News</h2>
-  <ul class="news-list">
-    <li><span class="news-date">Nov 2026.</span> <span class="tag tag-paper">Paper</span> <em>Evaluation of surrogate models in credit scoring: An empirical analysis of Korean card-loan data</em> was submitted.</li>
-    <li><span class="news-date">Oct 2026.</span> I attended the 4th IDIS IDEA Research Exchange Meeting at Seoul National University and briefly introduced myself to fellow researchers.</li>
-    <li><span class="news-date">Sept 2026.</span> <span class="tag tag-upcoming">Upcoming</span> Starting in March 2027, I will spend one year at the University of Washington, collaborating with Professor <a href="https://sites.stat.washington.edu/people/fanghan/">Fang Han</a>.</li>
-    <li><span class="news-date">July 2026.</span> <span class="tag tag-paper">Paper</span> <em>An association measure for mixed-type variables</em> is now available on <a href="https://arxiv.org/abs/2607.26508">arXiv</a>.</li>
-    <li><span class="news-date">July 2026.</span> <span class="tag tag-talk">Talk</span> I presented <em>An Association Measure for Mixed-Type Variables</em> at the 4th Joint Conference on Statistics and Data Science, Guiyang, China.</li>
-    <li><span class="news-date">June 2026.</span> <span class="tag tag-talk">Talk</span> I presented <em>A Nearest-Neighbor Measure of Conditional Association for Mixed-Type Variables</em> at the IMS New Researchers Conference Asia 2026, Hong Kong.</li>
-    <li><span class="news-date">June 2026.</span> <span class="tag tag-talk">Talk</span> I presented <em>An association measure for mixed-type variables</em> at the IMS APRM 2026, Hong Kong.</li>
-    <li><span class="news-date">June 2026.</span> <span class="tag tag-paper">Paper</span> <em>A unified framework for measuring attribute disclosure risks in synthetic data</em> was submitted.</li>
-    <li><span class="news-date">Mar 2026.</span> <span class="tag tag-talk">Talk</span> I presented <em>An association measure for mixed-type variables</em> at The 26th Nonparametric Statistical Analysis and Bayesian Statistics, Meiji University, Tokyo, Japan.</li>
-    <li><span class="news-date">Feb 2026.</span> I received my Ph.D. in Statistics from Seoul National University under the supervision of Professor <a href="https://jung.snu.ac.kr/">Sungkyu Jung</a>. My dissertation was titled <em>Extensions of Mixed-type Association Measures</em>.</li>
-    <li><span class="news-date">Feb 2026.</span> <span class="tag tag-paper">Paper</span> <em>An association measure for mixed-type variables</em> was submitted.</li>
-    <li class="news-highlight"> <span class="news-date">Feb 2026.</span> <span class="tag tag-fellowship">Fellowship</span> I was selected for the <strong>Sejong Science Fellowship</strong> as the PI. </li>
-  </ul>
+  {% include news-list.html limit=5 %}
+  <p><a href="{{ '/news/' | relative_url }}">View all news</a></p>
 </section>
