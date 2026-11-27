@@ -9,7 +9,7 @@ permalink: /papers/
 <ul class="item-list papers-list">
   <li>
     <span class="paper-title">A comparison of synthetic data approaches using utility and disclosure risk measures.</span><br>
-    S. An, T. Doan, J. Lee, J. Kim, Y. J. Kim, Y. Kim, C. Yoon, S. Jung, D. Kim, S. Kwon, H. J. Kim, J. Ahn, and C. Park.<br>
+    S. An, T. Doan, J. Lee, J. Kim, <strong>Y. J. Kim</strong>, Y. Kim, C. Yoon, S. Jung, D. Kim, S. Kwon, H. J. Kim, J. Ahn, and C. Park.<br>
     <span class="venue">The Korean Journal of Applied Statistics, 36(2), 141--166, 2023.</span>
   </li>
 </ul>
@@ -19,12 +19,18 @@ permalink: /papers/
 <ul class="item-list papers-list">
   <li>
     <span class="tag tag-submitted">Submitted</span>
+    <span class="paper-title">Evaluation of surrogate models in credit scoring: An empirical analysis of Korean card-loan data.</span><br>
+    <strong>Y. Kim</strong>, Y. Jo, D. Lee, G. Park, and S. Jung.<br>
+    <span class="venue">The Korean Journal of Applied Statistics.</span>
+  </li>
+  <li>
+    <span class="tag tag-submitted">Submitted</span>
     <span class="paper-title">A unified framework for measuring attribute disclosure risks in synthetic data.</span> <a href="https://github.com/JiwooKim97/ADR">[code]</a><br>
-    Y. Kim, J. Kim, and S. Jung.
+    <strong>Y. Kim</strong>, J. Kim, and S. Jung.
   </li>
   <li>
     <span class="tag tag-submitted">Submitted</span>
     <span class="paper-title">An association measure for mixed-type variables.</span> <a href="https://arxiv.org/abs/2607.26508">[arXiv]</a> <a href="https://github.com/cherrrycooky/xiprime">[code]</a><br>
-    Y. Kim, H. Moon, and S. Jung.
+    <strong>Y. Kim</strong>, H. Moon, and S. Jung.
   </li>
 </ul>
