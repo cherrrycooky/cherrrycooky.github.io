@@ -20,8 +20,7 @@ permalink: /papers/
   <li>
     <span class="tag tag-submitted">Submitted</span>
     <span class="paper-title">Evaluation of surrogate models in credit scoring: An empirical analysis of Korean card-loan data.</span><br>
-    <strong>Y. Kim</strong>, Y. Jo, D. Lee, G. Park, and S. Jung.<br>
-    <span class="venue">The Korean Journal of Applied Statistics.</span>
+    <strong>Y. Kim</strong>, Y. Jo, D. Lee, G. Park, and S. Jung.
   </li>
   <li>
     <span class="tag tag-submitted">Submitted</span>
