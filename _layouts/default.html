@@ -13,11 +13,11 @@
       <header class="site-header">
         <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
         <nav class="topnav" aria-label="Main navigation">
-          <a href="{{ '/' | relative_url }}">home</a>
-          <a href="{{ '/news/' | relative_url }}">news</a>
-          <a href="{{ '/papers/' | relative_url }}">papers</a>
-          <a href="{{ '/talks/' | relative_url }}">talks</a>
-          <a href="{{ '/teaching/' | relative_url }}">teaching</a>
+          <a href="{{ '/' | relative_url }}"{% if page.url == '/' or page.url == '/index.html' %} aria-current="page"{% endif %}>home</a>
+          <a href="{{ '/news/' | relative_url }}"{% if page.url == '/news/' %} aria-current="page"{% endif %}>news</a>
+          <a href="{{ '/papers/' | relative_url }}"{% if page.url == '/papers/' %} aria-current="page"{% endif %}>papers</a>
+          <a href="{{ '/talks/' | relative_url }}"{% if page.url == '/talks/' %} aria-current="page"{% endif %}>talks</a>
+          <a href="{{ '/teaching/' | relative_url }}"{% if page.url == '/teaching/' %} aria-current="page"{% endif %}>teaching</a>
           <a href="{{ '/cv.pdf' | relative_url }}">cv</a>
         </nav>
       </header>
