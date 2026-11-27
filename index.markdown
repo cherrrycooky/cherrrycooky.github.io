@@ -7,22 +7,7 @@ title: Home
   <div class="home-main">
     <h1>Yongjae Kim</h1>
     <p class="lead">
-      I am a Postdoctoral Researcher at the Institute for Data Innovation in Science, Seoul National University.
-    </p>
-    <p class="research-summary">Nonparametric methods for mixed-type data · Privacy in synthetic data</p>
-    <p class="links-line">
-<!--      
-      <a href="https://orcid.org/0009-0006-5982-3118">ORCID</a>
-      <span class="dot">·</span>
--->
-      <a href="{{ '/papers/' | relative_url }}">Papers</a>
-      <span class="dot">·</span>
-      <a href="{{ '/cv.pdf' | relative_url }}">CV</a>
-      <span class="dot">·</span>
-      <a href="https://github.com/cherrrycooky/">GitHub</a>
-    </p>
-    <p>
-      I received my Ph.D. in Statistics from Seoul National University in 2026, advised by Prof. <a href="https://jung.snu.ac.kr/">Sungkyu Jung</a>.
+      I am a Postdoctoral Researcher at the Institute for Data Innovation in Science, Seoul National University. I received my Ph.D. in Statistics from Seoul National University in 2026, advised by Prof. <a href="https://jung.snu.ac.kr/">Sungkyu Jung</a>.
     </p>
     <p>
     My research focuses on statistical inference, especially nonparametric methods for measuring dependence, association, and conditional association in mixed-type and high-dimensional data. I am interested in characterizing complex relationships without relying on restrictive parametric models, with connections to distribution-free inference, feature screening, variable selection, and modern biomedical data analysis.
@@ -34,6 +19,15 @@ title: Home
       cherrycooky [at] snu.ac.kr<br>
       Institute for Data Innovation in Science<br>
       Seoul National University
+    </p>
+    <p class="links-line">
+<!--      
+      <a href="https://orcid.org/0009-0006-5982-3118">ORCID</a>
+      <span class="dot">·</span>
+-->
+      <a href="https://github.com/cherrrycooky/">GitHub</a>
+      <span class="dot">·</span>
+      <a href="{{ '/cv.pdf' | relative_url }}">CV</a>
     </p>
   </div>
   <aside class="portrait-frame" aria-label="Profile photo placeholder">
